@@ -1,0 +1,14 @@
+Popular methods of VideoView->
+start
+setVideoURI
+setMediaController
+pause
+setVideoPath
+setOnPreparedListener
+setOnCompletionListener
+seekTo
+isPlaying
+stopPlayback
+getCurrentPosition
+setOnErrorListener
+**********
